@@ -1,7 +1,7 @@
 # EverythingCalculator
 **Calculator that serves for a number of different functions, which are:**
-> Tip Calculator
+> Tip Calculator [TyrianPurple]
 
-> Currency Calculator
+> Currency Calculator [ThePTNT]
 
-> Scientific Calculator
+> Scientific Calculator [Ediefalcopuppy]
